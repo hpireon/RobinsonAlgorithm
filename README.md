@@ -1,4 +1,4 @@
 RobinsonAlgorithm
 =================
 
-Artifical Intelligent: Assignment 1st -  Robinson Algorithm
+Artifical Intelligent: Assignment 2nd -  Robinson Algorithm
